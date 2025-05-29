@@ -12,7 +12,7 @@ In this Project, the main goal is to create a basic car that can be used as a fo
    > L298N H-Bridge motor driver ,
    > 4x low-powered DC geared motors (2 per side) ,
    > 2x 3.8V li-ion cells + PowerBank for Pi ,
-   > USB cable for Arduino-RPi connection ,
+   > USB cable for Arduino-RPi connection 
 
    System Flow :
         [User input Termianl thru SSH] ----> [ROS2 manual_controll.py node] ----> [Arduino PWM Decoder] ----> [L298N Motor Driver] ----> [Motors]
