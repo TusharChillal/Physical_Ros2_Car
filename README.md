@@ -1,5 +1,5 @@
 My First ROS Project. 
-In this Project the main aim is to make a base car which is the base for the building up and adding on senesors to make to autonumus.
+In this Project, the main goal is to create a basic car that can be used as a foundation for adding sensors and other components to make it autonomous.
 
 
 ### Phase 1: Manual Motor Control
